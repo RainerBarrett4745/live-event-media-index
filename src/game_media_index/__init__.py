@@ -1,0 +1,2 @@
+"""Game media indexing example."""
+
